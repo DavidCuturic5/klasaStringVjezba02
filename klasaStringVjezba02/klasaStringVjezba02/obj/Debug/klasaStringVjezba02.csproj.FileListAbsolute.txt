@@ -1,0 +1,7 @@
+C:\Users\Ucenik\source\repos\klasaStringVjezba02\klasaStringVjezba02\bin\Debug\klasaStringVjezba02.exe.config
+C:\Users\Ucenik\source\repos\klasaStringVjezba02\klasaStringVjezba02\bin\Debug\klasaStringVjezba02.exe
+C:\Users\Ucenik\source\repos\klasaStringVjezba02\klasaStringVjezba02\bin\Debug\klasaStringVjezba02.pdb
+C:\Users\Ucenik\source\repos\klasaStringVjezba02\klasaStringVjezba02\obj\Debug\klasaStringVjezba02.csproj.AssemblyReference.cache
+C:\Users\Ucenik\source\repos\klasaStringVjezba02\klasaStringVjezba02\obj\Debug\klasaStringVjezba02.csproj.CoreCompileInputs.cache
+C:\Users\Ucenik\source\repos\klasaStringVjezba02\klasaStringVjezba02\obj\Debug\klasaStringVjezba02.exe
+C:\Users\Ucenik\source\repos\klasaStringVjezba02\klasaStringVjezba02\obj\Debug\klasaStringVjezba02.pdb
